@@ -2,6 +2,8 @@
 
 Intro, high level outcomes, who it applies to, why are we doing this,  when is it happening
 
+Problem statement: https://github.com/philscanlon/learning_day/Problem_Statement.md
+
 ##  links
 
 Quickly get to where you need to go during the event
