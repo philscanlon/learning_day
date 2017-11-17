@@ -28,11 +28,12 @@ The event will run on the ....  We will use the following high level schedule
 
 ### Vital Information
 
-__When:__ The hackathon kicks off during the week of 5th December and will culminate on a global SC Call on the 15th december rolling through the demo around the world.
+__When:__ 
+Prework can be performed between now and the event.
+The event will kick off during the week of ... 
 
-Regional physical/virtual teams in each location will get together to help each other out and learn along the way.
 
-__Questions?__ Reach out to your peers, your region lead.
+__Questions?__ Reach out to ...
 
 ### What will you hack
 
