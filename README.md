@@ -6,7 +6,8 @@ Intro, high level outcomes, who it applies to, why are we doing this,  when is i
 
 Quickly get to where you need to go during the event
 
-* Solace Chat App : https://github.com/philscanlon/Hackathon2016/tree/master/Demos/SolaceChat
+* source repository : ...
+* Static credentials
 
 
 ## Timeline
