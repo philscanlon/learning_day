@@ -1,4 +1,4 @@
-# learning_day
+# Solace Learning Day
 
 Intro, high level outcomes, who it applies to, why are we doing this,  when is it happening
 
